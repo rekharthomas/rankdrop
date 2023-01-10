@@ -1,7 +1,4 @@
 
--- November 29, 2022
--- Computational proof of Theorem 4.2
--- decompose the maximal minor ideal of 3x9 Z
 
 S = QQ[x_{1,1},x_{1,2},x_{2,1},x_{2,2},x_{3,1},x_{3,2},y_{1,1},y_{1,2},y_{2,1},y_{2,2},y_{3,1},y_{3,2}]
 X = matrix{
