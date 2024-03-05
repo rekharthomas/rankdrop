@@ -30,7 +30,7 @@ toString primes_5
 
 toString primes_6
 
-----------This component cooresponds to the unique new point pair x_6~(-1/3,7/5,3/17), y_6~(-4/3,2/5,-1/20)----------
+----------This component cooresponds to the unique new point pair x_6~(-1/3,7/5,3/17), y_6~(-4/3,2/5,-1/17)----------
 
 toString primes_7
 
@@ -55,6 +55,6 @@ toString primes_0
 
 toString primes_1
 
-----------This component cooresponds to the unique new point pair y_5~(8,2,1), y_6~(-4/3,2/5,-1/20)----------
+----------This component cooresponds to the unique new point pair y_5~(8,2,1), y_6~(-4/3,2/5,-1/17)----------
 
 toString primes_2
